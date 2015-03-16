@@ -1,0 +1,11 @@
+D:\Documents\PAKMAN\paKmaN\paKmaN\bin\Debug\paKmaN.exe.config
+D:\Documents\PAKMAN\paKmaN\paKmaN\bin\Debug\paKmaN.exe
+D:\Documents\PAKMAN\paKmaN\paKmaN\bin\Debug\paKmaN.pdb
+D:\Documents\PAKMAN\paKmaN\paKmaN\obj\Debug\paKmaN.csprojResolveAssemblyReference.cache
+D:\Documents\PAKMAN\paKmaN\paKmaN\obj\Debug\paKmaN.exe
+D:\Documents\PAKMAN\paKmaN\paKmaN\obj\Debug\paKmaN.pdb
+D:\Documents\PAKMAN\paKmaN\paKmaN\bin\Debug\pacman.ico
+D:\Documents\PAKMAN\paKmaN\paKmaN\bin\Debug\paKmaN.exe.manifest
+D:\Documents\PAKMAN\paKmaN\paKmaN\bin\Debug\paKmaN.application
+D:\Documents\PAKMAN\paKmaN\paKmaN\obj\Debug\paKmaN.exe.manifest
+D:\Documents\PAKMAN\paKmaN\paKmaN\obj\Debug\paKmaN.application
