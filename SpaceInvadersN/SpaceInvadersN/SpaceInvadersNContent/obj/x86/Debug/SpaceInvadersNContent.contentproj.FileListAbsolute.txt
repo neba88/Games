@@ -1,0 +1,1 @@
+C:\Users\Nebojsa\Desktop\Beginning C# Game Programming\Microsoft XNA Game Studio 4.0 Learn Programming Now!\SpaceInvadersN\SpaceInvadersN\SpaceInvadersNContent\obj\x86\Debug\SpaceInvadersNContent.contentprojResolveAssemblyReference.cache

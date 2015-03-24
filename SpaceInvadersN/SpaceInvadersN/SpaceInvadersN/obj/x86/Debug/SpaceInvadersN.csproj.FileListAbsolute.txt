@@ -1,0 +1,18 @@
+C:\Users\Nebojsa\Desktop\Beginning C# Game Programming\Microsoft XNA Game Studio 4.0 Learn Programming Now!\SpaceInvadersN\SpaceInvadersN\SpaceInvadersN\bin\x86\Debug\Content\alienOne.xnb
+C:\Users\Nebojsa\Desktop\Beginning C# Game Programming\Microsoft XNA Game Studio 4.0 Learn Programming Now!\SpaceInvadersN\SpaceInvadersN\SpaceInvadersN\bin\x86\Debug\Content\alienThree.xnb
+C:\Users\Nebojsa\Desktop\Beginning C# Game Programming\Microsoft XNA Game Studio 4.0 Learn Programming Now!\SpaceInvadersN\SpaceInvadersN\SpaceInvadersN\bin\x86\Debug\Content\alienTwo.xnb
+C:\Users\Nebojsa\Desktop\Beginning C# Game Programming\Microsoft XNA Game Studio 4.0 Learn Programming Now!\SpaceInvadersN\SpaceInvadersN\SpaceInvadersN\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Nebojsa\Desktop\Beginning C# Game Programming\Microsoft XNA Game Studio 4.0 Learn Programming Now!\SpaceInvadersN\SpaceInvadersN\SpaceInvadersN\bin\x86\Debug\Content\ship.xnb
+C:\Users\Nebojsa\Desktop\Beginning C# Game Programming\Microsoft XNA Game Studio 4.0 Learn Programming Now!\SpaceInvadersN\SpaceInvadersN\SpaceInvadersN\obj\x86\Debug\SpaceInvadersN.csprojResolveAssemblyReference.cache
+C:\Users\Nebojsa\Desktop\Beginning C# Game Programming\Microsoft XNA Game Studio 4.0 Learn Programming Now!\SpaceInvadersN\SpaceInvadersN\SpaceInvadersN\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nebojsa\Desktop\Beginning C# Game Programming\Microsoft XNA Game Studio 4.0 Learn Programming Now!\SpaceInvadersN\SpaceInvadersN\SpaceInvadersN\bin\x86\Debug\Content\Segoe.xnb
+C:\Users\Nebojsa\Desktop\Beginning C# Game Programming\Microsoft XNA Game Studio 4.0 Learn Programming Now!\SpaceInvadersN\SpaceInvadersN\SpaceInvadersN\bin\x86\Debug\Content\background.xnb
+C:\Users\Nebojsa\Desktop\Beginning C# Game Programming\Microsoft XNA Game Studio 4.0 Learn Programming Now!\SpaceInvadersN\SpaceInvadersN\SpaceInvadersN\bin\x86\Debug\Content\Soundtrack.xnb
+C:\Users\Nebojsa\Desktop\Beginning C# Game Programming\Microsoft XNA Game Studio 4.0 Learn Programming Now!\SpaceInvadersN\SpaceInvadersN\SpaceInvadersN\bin\x86\Debug\Content\Soundtrack.wma
+C:\Users\Nebojsa\Desktop\Beginning C# Game Programming\Microsoft XNA Game Studio 4.0 Learn Programming Now!\SpaceInvadersN\SpaceInvadersN\SpaceInvadersN\bin\x86\Debug\Space Invaders N.exe
+C:\Users\Nebojsa\Desktop\Beginning C# Game Programming\Microsoft XNA Game Studio 4.0 Learn Programming Now!\SpaceInvadersN\SpaceInvadersN\SpaceInvadersN\bin\x86\Debug\Space Invaders N.pdb
+C:\Users\Nebojsa\Desktop\Beginning C# Game Programming\Microsoft XNA Game Studio 4.0 Learn Programming Now!\SpaceInvadersN\SpaceInvadersN\SpaceInvadersN\obj\x86\Debug\Space Invaders N.exe
+C:\Users\Nebojsa\Desktop\Beginning C# Game Programming\Microsoft XNA Game Studio 4.0 Learn Programming Now!\SpaceInvadersN\SpaceInvadersN\SpaceInvadersN\obj\x86\Debug\Space Invaders N.pdb
+C:\Users\Nebojsa\Desktop\Beginning C# Game Programming\Microsoft XNA Game Studio 4.0 Learn Programming Now!\SpaceInvadersN\SpaceInvadersN\SpaceInvadersN\bin\x86\Debug\Content\gameOver.xnb
+C:\Users\Nebojsa\Desktop\Beginning C# Game Programming\Microsoft XNA Game Studio 4.0 Learn Programming Now!\SpaceInvadersN\SpaceInvadersN\SpaceInvadersN\bin\x86\Debug\Content\start.xnb
+C:\Users\Nebojsa\Desktop\Beginning C# Game Programming\Microsoft XNA Game Studio 4.0 Learn Programming Now!\SpaceInvadersN\SpaceInvadersN\SpaceInvadersN\bin\x86\Debug\Content\youWin.xnb
